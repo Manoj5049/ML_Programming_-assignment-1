@@ -5,4 +5,4 @@
 * Running each and every cell gives repective output.
 * Run "%matplotlib notebook" this command in seperate cell for better visualization.
 ## Caution: 
-#### The results of logectic regression might be differnt from the one mentioned in report it is because of the usind np.random.uniform(0,1) for intializing the weights.
+#### The results of logestic regression might be differnt from the one mentioned in report it is because of the usind np.random.uniform(0,1) for intializing the weights.
